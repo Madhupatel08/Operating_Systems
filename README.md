@@ -8,4 +8,4 @@
 [![GitHub license](https://img.shields.io/github/license/Madhupatel08/Operating_Systems.svg)](https://github.com/Madhupatel08/Operating_Systems/blob/master/License)
 
 
-This Repository Contains the Practical Implementaion of Operating Systems
+This Repository Contains the Practical Implementation of Operating Systems
